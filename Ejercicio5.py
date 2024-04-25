@@ -1,4 +1,0 @@
-valorCompra=int(input("Ingrese el valor de la compra: ")) #Se pregunta acerca del valor de la compra
-descuento=valorCompra*0.2 #Se realiza la operación de sacar el porcentaje de descuento al valor total de la compra, que en este caso ya está definido con el 20%
-valorFinal=valorCompra-descuento #Se realiza la operación de restarle el descuento al valor de la compra y se guarda en la variable "valorFinal"
-print("La compra fue de:",valorCompra,"con un descuento de:",descuento,"(20%) y el valor final a pagar es:",valorFinal) #Se muestra el mensaje mostrando el valor de la compra inicial, el descuento que se le hizo y el valor final a pagar con el descuento incluido
